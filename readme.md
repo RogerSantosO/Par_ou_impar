@@ -1,0 +1,1 @@
+Este programa verifica uma sequência de números desde um número inicial ao número final se eles são pares ou ímpares. Ao final ele mostra o total de números pares da sequência
